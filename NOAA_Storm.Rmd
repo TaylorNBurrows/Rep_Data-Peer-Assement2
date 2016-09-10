@@ -156,7 +156,7 @@ dev.copy(png,file="barplot1.png")
 dev.off()
 
 ```
-![plot of chunk unnamed-chunk-1](/Users/tmoniz/datasciencecoursera/3Reproducible Research/Project2/barplot1.png)
+![plot of chunk unnamed-chunk-1](/barplot1.png)
 
 Conclusion: The weather event that causes the most harm to public health is Tornadoes. They have shown in the graphs above to be the largest cause of fatalities and injuries due to weather events in the United States.
 
@@ -177,6 +177,6 @@ dev.copy(png,file="barplot2.png")
 dev.off()
 
 ```
-![plot of chunk unnamed-chunk-2](/Users/tmoniz/datasciencecoursera/3Reproducible Research/Project2/barplot2.png)
+![plot of chunk unnamed-chunk-2](/barplot2.png)
 
 Conclusion: The events that have caused the most damage in the United states from an economic stand point are Flood, Drought and Hurricane, but for different reasons. For example the biggest risk to crops is a drougth event, whereas the biggest threat to properties are floods. 
